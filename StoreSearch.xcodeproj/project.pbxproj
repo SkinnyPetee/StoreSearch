@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8080781020AF2E9200E65091 /* LoadingCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8080780F20AF2E9200E65091 /* LoadingCell.xib */; };
 		80C10A4D20AD764C00B2787B /* NothingCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 80C10A4C20AD764C00B2787B /* NothingCell.xib */; };
 		80CB4CA220AC4C92006EA74D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80CB4CA120AC4C92006EA74D /* AppDelegate.swift */; };
 		80CB4CA420AC4C92006EA74D /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80CB4CA320AC4C92006EA74D /* SearchViewController.swift */; };
@@ -39,6 +40,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8080780F20AF2E9200E65091 /* LoadingCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = LoadingCell.xib; sourceTree = "<group>"; };
 		80C10A4C20AD764C00B2787B /* NothingCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = NothingCell.xib; sourceTree = "<group>"; };
 		80CB4C9E20AC4C92006EA74D /* StoreSearch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StoreSearch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		80CB4CA120AC4C92006EA74D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -112,6 +114,7 @@
 				80C10A4C20AD764C00B2787B /* NothingCell.xib */,
 				80CB4CD620AC7527006EA74D /* SearchResultCell.swift */,
 				80CB4CD220AC60D9006EA74D /* SearchResult.swift */,
+				8080780F20AF2E9200E65091 /* LoadingCell.xib */,
 				80CB4CA520AC4C92006EA74D /* Main.storyboard */,
 				80CB4CAB20AC4C94006EA74D /* Assets.xcassets */,
 				80CB4CAD20AC4C94006EA74D /* LaunchScreen.storyboard */,
@@ -246,6 +249,7 @@
 			files = (
 				80CB4CAF20AC4C94006EA74D /* LaunchScreen.storyboard in Resources */,
 				80CB4CAC20AC4C94006EA74D /* Assets.xcassets in Resources */,
+				8080781020AF2E9200E65091 /* LoadingCell.xib in Resources */,
 				80CB4CD520AC7068006EA74D /* SearchResultCell.xib in Resources */,
 				80CB4CA720AC4C92006EA74D /* Main.storyboard in Resources */,
 				80C10A4D20AD764C00B2787B /* NothingCell.xib in Resources */,
